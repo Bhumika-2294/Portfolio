@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bhumika Rathore - Portfolio</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            background-color: #f4f4f4;
+        }
+        
+        header {
+            background-color: white;
+            color: rgb(8, 7, 7);
+            text-align: center;
+            padding: 1em 0;
+        }
+        
+        section {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: white;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            margin-top: 20px;
+        }
+        
+        h1,
+        h2,
+        h3 {
+            color: #333;
+        }
+        
+        p {
+            line-height: 1.6;
+            color: #555;
+        }
+        
+        .project {
+            margin-bottom: 20px;
+        }
+        
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 1em 0;
+        }
+    </style>
+</head>
+
+<body>
+
+    <header>
+        <h1>Bhumika Rathore</h1>
+        <p>Computer Science Engineer</p>
+    </header>
+
+    <section>
+        <h2>About Me</h2>
+        <p>
+            Organized and dependable candidate successful at managing multiple priorities with a positive attitude and accuracy. Willingness to take on added responsibilities to meet team goals. Detail-oriented team player with strong organizational skills. Seeking
+            a techno-management role to apply expertise, strategic thinking and organizational skills by working in a learning environment that offers professional growth and impactful opportunities. </p>
+    </section>
+
+    <section>
+        <h2>Projects</h2>
+        <div class="project">
+            <h3>Task Tracking Tool - Leader</h3>
+            <p>An application based project to manage and track tasks. projects, and workflows efficiently & a dynamic solution designed to revolutionize project management and
+            </p>
+        </div>
+        <div class="project">
+            <h3>Titanic Classification - Internship</h3>
+            <p>Internship at Bharat Intern.</p>
+        </div>
+    </section>
+
+    <section>
+        <h2>Contact</h2>
+        <p>Email: bhumikarathore210255@acropolis.in</p>
+        <p>LinkedIn: https://www.linkedin.com/in/bhumika-rathore-2aa10422a/</p>
+        <p>GitHub: https://github.com/Bhumika-2294</p>
+    </section>
+
+    <footer>
+        &copy; 2023 Bhumika Rathore
+    </footer>
+
+</body>
+
+</html>
